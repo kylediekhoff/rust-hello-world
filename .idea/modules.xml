@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/branches/branches.iml" filepath="$PROJECT_DIR$/branches/branches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fizz-buzz/fizz-buzz.iml" filepath="$PROJECT_DIR$/fizz-buzz/fizz-buzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/guessing-game/guessing-game.iml" filepath="$PROJECT_DIR$/guessing-game/guessing-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/rust-hello-world.iml" filepath="$PROJECT_DIR$/.idea/rust-hello-world.iml" />
       <module fileurl="file://$PROJECT_DIR$/rusty-hello/rusty-hello.iml" filepath="$PROJECT_DIR$/rusty-hello/rusty-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
     </modules>
   </component>
 </project>
